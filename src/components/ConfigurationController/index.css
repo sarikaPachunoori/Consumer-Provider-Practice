@@ -1,0 +1,23 @@
+.config-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #475569;
+  padding-left: 50px;
+}
+.layout-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.label-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 8px;
+  margin-bottom: 15px;
+}
+.checkbox-name {
+  color: #e2e8f0;
+  font-family: 'Roboto';
+  padding-left: 5px;
+}
